@@ -63,6 +63,7 @@ Example query:
 SELECT *
 FROM sample_table
 LIMIT 10;
+```
 ## Screenshots
 ![](bucket.png)
 
